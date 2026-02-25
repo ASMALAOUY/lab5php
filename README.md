@@ -1,2 +1,2 @@
-![image alt](<img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/29377d0c-66c9-424a-b028-4bea55265df6" />
+![image alt](https://github.com/ASMALAOUY/lab5php/blob/main/Screenshot%202026-02-25%20213344.jpg?raw=true)>
 )
